@@ -1,0 +1,22 @@
+{
+  "es": [
+    {
+      "title": "Bienvenido",
+      "body": "Este sitio está diseñado para ofrecer contenido claro, accesible y respetuoso."
+    },
+    {
+      "title": "Propósito",
+      "body": "Compartir información de forma ordenada, sencilla y comprensible."
+    }
+  ],
+  "en": [
+    {
+      "title": "Welcome",
+      "body": "This site is designed to provide clear, accessible and respectful content."
+    },
+    {
+      "title": "Purpose",
+      "body": "To share information in an organized, simple and understandable way."
+    }
+  ]
+}
